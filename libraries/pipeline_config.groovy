@@ -1,5 +1,5 @@
 libraries{
-    sonarqube
     maven
+    sonarqube
 }
 
